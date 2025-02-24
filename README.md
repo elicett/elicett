@@ -1,4 +1,10 @@
-## Hi there 👋
+# Eliezer Licett.
+
+#### VE - 30yo
+###### Mechanical Maintance engineer. 🔭
+###### Agronomical engineer. 🌱
+###### Backend and smartphones automatization developer.
+
 
 <!--
 **elicett/elicett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
