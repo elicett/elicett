@@ -5,7 +5,7 @@
 -------------------------------------
 + Mechanical Maintance engineer. 🔧🔩
 +  Agronomical engineer. 🌱🔬
-+  Backend and smartphones automatization developer. 💻📱💻
++  Backend and automatization developer. 💻📱💻
 
 
 
