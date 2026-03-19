@@ -5,7 +5,7 @@
 -------------------------------------
 + Mechanical Maintance engineer. 🔧🔩
 +  Agronomical engineer. 🌱🔬
-+  Backend and automatization developer. 💻📱💻
++  Fullstack, AI Integer and Automatization Developer. 💻📱💻
 
 
 
