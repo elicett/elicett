@@ -60,7 +60,7 @@ Currently, I work as an **IT Manager at [Jumper Media](https://jumpermedia.co/)*
   </a>
 </div>
 
-### 📬 Let's Connect & Projects
+### 📬 Contact & Personal Projects
 
 I am always open to discussing cloud infrastructure, automation, or how technology can solve real-world problems. You can also check out some of my live projects below.
 
@@ -139,19 +139,19 @@ Actualmente trabajo como **IT Manager en [Jumper Media](https://jumpermedia.co/)
   </a>
 </div>
 
-### 📬 Conectemos y Proyectos
+### 📬 Contacto y Proyectos personales
 
 Siempre estoy abierto a discutir sobre automatización, infraestructura cloud, o cómo la tecnología puede resolver problemas del mundo real. También puedes revisar algunos de mis proyectos en vivo a continuación.
 
 📍 **Ubicación:** Maturín, Venezuela  
 🌐 **Portafolio Principal:** [eliezerlicett.com](https://eliezerlicett.com) | [el-develops.com](https://el-develops.com)
 
-** Proyectos activos (Diseñados y desarrollados por mí):**
+**Proyectos activos (Diseñados y desarrollados por mí):**
 - 🌾 [RoraimCcode](https://roraimacode.com) - Plataforma AgroTech gratuita
 - 🚌 [Cibu.Link](https://cibu.link) - Directorio de negocios a escala global
 - 🏥 [od. Stefanie Medina](https://od-stefaniemedina.com) - Sitio web para un profesional de la odontología
 
-** Otros proyectos en fase de desarrollo (Designed & Developed by me):**
+**Otros proyectos en fase de desarrollo (Designed & Developed by me):**
 - 🌾 [Ruta Cacao Monagas](https://d8kg1tldu2dyo.cloudfront.net) - Ruta turística
 - 🚌 [Psiq. Luis Martinez](https://dmos2jt8nmy2e.cloudfront.net/) - Sitio web para un profesional de la salud mental
 - 🏥 [ERP System for free](https://drs1iptvsw3pd.cloudfront.net/login) - ERP Gratis para tu negocio
