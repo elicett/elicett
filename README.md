@@ -78,7 +78,7 @@ I am always open to discussing cloud infrastructure, automation, or how technolo
 - 🏥 [ERP System for free](https://drs1iptvsw3pd.cloudfront.net/login) - ERP for free!
 
 <div align="center">
-  <p><i>"Optimizing code and systems, one commit at a time."</i></p>
+  <p><i>"Maded with ❤ and code."</i></p>
 </div>
 
 <br/><br/>
@@ -157,4 +157,4 @@ Siempre estoy abierto a discutir sobre automatización, infraestructura cloud, o
 - 🏥 [ERP System for free](https://drs1iptvsw3pd.cloudfront.net/login) - ERP Gratis para tu negocio
 
 <div align="center">
-  <p><i>"Optimizando código y sistemas, un commit a la vez."</i></p>
+  <p><i>"Hecho con ❤ y código"</i></p>
