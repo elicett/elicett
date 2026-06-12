@@ -53,10 +53,10 @@ Currently, I work as an **IT Manager at [Jumper Media](https://jumpermedia.co/)*
 
 <div align="center">
   <a href="https://github.com/TU_USUARIO">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=79C0FF&title_color=C9D1D9&text_color=8B949E" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elicett&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=79C0FF&title_color=C9D1D9&text_color=8B949E" />
   </a>
   <a href="https://github.com/TU_USUARIO">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elicett&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E" />
   </a>
 </div>
 
@@ -68,9 +68,14 @@ I am always open to discussing cloud infrastructure, automation, or how technolo
 🌐 **Main Portfolio:** [eliezerlicett.com](https://eliezerlicett.com) | [el-develops.com](https://el-develops.com)
 
 **Live Projects (Designed & Developed by me):**
-- 🌾 [roraimacode.com](https://roraimacode.com) - Agrotech Platform
-- 🚌 [citiesbus.com](https://citiesbus.com) - Urban Mobility App
-- 🏥 [od-stefaniemedina.com](https://od-stefaniemedina.com) - Dental Clinic Portfolio
+- 🌾 [RoraimCcode](https://roraimacode.com) - Free Agrotech Platform
+- 🚌 [Cibu.Link](https://cibu.link) - Free Worldwide business directory
+- 🏥 [od. Stefanie Medina](https://od-stefaniemedina.com) - Dental Website
+
+**Projects at developing phase (Designed & Developed by me):**
+- 🌾 [Ruta Cacao Monagas](https://d8kg1tldu2dyo.cloudfront.net) - Agrotech Platform
+- 🚌 [Psiq. Luis Martinez](https://dmos2jt8nmy2e.cloudfront.net/) - Medical website
+- 🏥 [ERP System for free](https://drs1iptvsw3pd.cloudfront.net/login) - ERP for free!
 
 <div align="center">
   <p><i>"Optimizing code and systems, one commit at a time."</i></p>
@@ -141,10 +146,15 @@ Siempre estoy abierto a discutir sobre automatización, infraestructura cloud, o
 📍 **Ubicación:** Maturín, Venezuela  
 🌐 **Portafolio Principal:** [eliezerlicett.com](https://eliezerlicett.com) | [el-develops.com](https://el-develops.com)
 
-**Proyectos en Vivo (Diseñados y Desarrollados por mí):**
-- 🌾 [roraimacode.com](https://roraimacode.com) - Plataforma Agrotecnológica
-- 🚌 [citiesbus.com](https://citiesbus.com) - Movilidad Urbana
-- 🏥 [od-stefaniemedina.com](https://od-stefaniemedina.com) - Portafolio de Clínica Dental
+** Proyectos activos (Diseñados y desarrollados por mí):**
+- 🌾 [RoraimCcode](https://roraimacode.com) - Plataforma AgroTech gratuita
+- 🚌 [Cibu.Link](https://cibu.link) - Directorio de negocios a escala global
+- 🏥 [od. Stefanie Medina](https://od-stefaniemedina.com) - Sitio web para un profesional de la odontología
+
+** Otros proyectos en fase de desarrollo (Designed & Developed by me):**
+- 🌾 [Ruta Cacao Monagas](https://d8kg1tldu2dyo.cloudfront.net) - Ruta turística
+- 🚌 [Psiq. Luis Martinez](https://dmos2jt8nmy2e.cloudfront.net/) - Sitio web para un profesional de la salud mental
+- 🏥 [ERP System for free](https://drs1iptvsw3pd.cloudfront.net/login) - ERP Gratis para tu negocio
 
 <div align="center">
   <p><i>"Optimizando código y sistemas, un commit a la vez."</i></p>
