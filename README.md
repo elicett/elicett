@@ -52,10 +52,10 @@ Currently, I work as an **IT Manager at [Jumper Media](https://jumpermedia.co/)*
 ### 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/elicett">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elicett&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=79C0FF&title_color=C9D1D9&text_color=8B949E" />
   </a>
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/elicett">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elicett&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E" />
   </a>
 </div>
@@ -131,11 +131,11 @@ Actualmente trabajo como **IT Manager en [Jumper Media](https://jumpermedia.co/)
 ### 📈 Estadísticas de GitHub
 
 <div align="center">
-  <a href="https://github.com/TU_USUARIO">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=79C0FF&title_color=C9D1D9&text_color=8B949E" />
+  <a href="https://github.com/elicett">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elicett&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=79C0FF&title_color=C9D1D9&text_color=8B949E" />
   </a>
-  <a href="https://github.com/TU_USUARIO">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E" />
+  <a href="https://github.com/elicett">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elicett&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E" />
   </a>
 </div>
 
