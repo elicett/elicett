@@ -30,7 +30,7 @@ Currently, I work as an **IT Manager at [Jumper Media](https://jumpermedia.co/)*
 - 💼 **Current Role:** IT Manager at Jumper Media. Managing infrastructure, networks, and monitoring tools.
 - 🛠️ **Main Stack:** Robust development using **Python, Node.js, React**, and **Java**.
 - ☁️ **Cloud & DevOps:** Strong background in the **AWS** ecosystem (Architectures, S3, Route53, EC2, CloudFront) and cross-platform version control.
-- 🌱 **Active Projects:** - Designing **Roraima Code** (Yari Yield): An agrotech platform featuring a glassmorphism frontend that integrates satellite data (Sentinel, ERA5-Land) to optimize agricultural performance.
+- 🌱 **Active Projects:** - Designing **Roraima Code** : An agrotech platform featuring a glassmorphism frontend that integrates satellite data (Sentinel, ERA5-Land) to optimize agricultural performance.
   - Developing mobile automation workflows with **Python** (*master-agent* project) using ADB protocols.
 - 🎯 **Current Focus:** Preparing for my **Cisco CCNA** certification to deepen my expertise in corporate networking.
 - ⚡ **Beyond Code:** When I'm not deploying infrastructure on AWS or reviewing repositories, I'm usually training Brazilian Jiu-Jitsu (BJJ) and Mixed Martial Arts (MMA), or conducting research on agroforestry systems and cacao cultivation.
@@ -104,7 +104,7 @@ Actualmente trabajo como **IT Manager en [Jumper Media](https://jumpermedia.co/)
 - 💼 **Rol actual:** IT Manager en Jumper Media. Gestionando infraestructura, redes y herramientas de monitoreo.
 - 🛠️ **Stack principal:** Desarrollo robusto usando **Python, Node.js, React** y **Java**.
 - ☁️ **Cloud & DevOps:** Fuerte experiencia en el ecosistema **AWS** (arquitecturas, S3, Route53, EC2, CloudFront) y control de versiones multiplataforma.
-- 🌱 **Proyectos activos:** - Diseñando **Roraima Code** (Yari Yield): Plataforma agrotecnológica con interfaces *glassmorphism* que integra datos satelitales (Sentinel, ERA5-Land) para optimizar el rendimiento agrícola.
+- 🌱 **Proyectos activos:** - Diseñando **Roraima Code** : Plataforma agrotecnológica con interfaces *glassmorphism* que integra datos satelitales (Sentinel, ERA5-Land) para optimizar el rendimiento agrícola.
   - Desarrollo de flujos de automatización móvil con **Python** (proyecto *master-agent*) mediante protocolos ADB.
 - 🎯 **Enfoque actual:** Preparando mi certificación **Cisco CCNA** para profundizar mi conocimiento en redes corporativas.
 - ⚡ **Más allá del código:** Cuando no estoy implementando despliegues en AWS o revisando repositorios, suelo entrenar Jiu-Jitsu Brasileño (BJJ) y Artes Marciales Mixtas (MMA), y me dedico a la investigación sobre sistemas agroforestales y cultivo de cacao.
